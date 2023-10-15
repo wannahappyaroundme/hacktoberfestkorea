@@ -1,4 +1,21 @@
 {
   "projectName": "hacktoberfestkorea",
-  "projectOwner": "phg98"
+  "projectOwner": "wannahappyaroundme",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "wannahappyaroundme",
+      "name": "wannahappyaroundme",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140027332?v=4",
+      "profile": "https://github.com/wannahappyaroundme",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
 }

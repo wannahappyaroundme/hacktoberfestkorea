@@ -1,9 +1,11 @@
 {
   "projectName": "hacktoberfestkorea",
-  "projectOwner": "hacktoberfestkorea",
+  "projectOwner": "wannahappyaroundme",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
@@ -16,5 +18,17 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "contributors": []
+  "contributors": [
+    {
+      "login": "BORA040126",
+      "name": "BORA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88664069?v=4",
+      "profile": "https://instagram.com/dev_bboorraa",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
